@@ -1,0 +1,8 @@
+{
+  "name": "Smartfeed",
+  "description": "An elegant, interactive personal expense tracker with data visualization, suggested financial feeds, and social media/subscription spending controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
